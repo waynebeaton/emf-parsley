@@ -1,15 +1,17 @@
 /*******************************************************************************
  * Copyright (c) 2011 itemis AG (http://www.itemis.eu) and others.
  * All rights reserved. This program and the accompanying materials
- * are made available under the terms of the Eclipse Public License v1.0
+ * are made available under the terms of the Eclipse Public License 2.0
  * which accompanies this distribution, and is available at
- * http://www.eclipse.org/legal/epl-v10.html
+ * https://www.eclipse.org/legal/epl-2.0/
  * 
  * Contributors:
  * Sven Efftinge - Initial contribution and API
  * Lorenzo Bettini - adapted to work with several Java files and other
  * 	generated files, like xml files
- *******************************************************************************/
+ ******************************************************************************
+ * SPDX-License-Identifier: EPL-2.0
+*/
 package org.eclipse.emf.parsley.dsl.tests.util;
 
 import java.io.ByteArrayOutputStream;

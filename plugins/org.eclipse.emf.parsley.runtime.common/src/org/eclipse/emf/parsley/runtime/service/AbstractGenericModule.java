@@ -3,15 +3,17 @@ package org.eclipse.emf.parsley.runtime.service;
 /*******************************************************************************
  * Copyright (c) 2008, 2013 itemis AG (http://www.itemis.eu) and others.
  * All rights reserved. This program and the accompanying materials
- * are made available under the terms of the Eclipse Public License v1.0
+ * are made available under the terms of the Eclipse Public License 2.0
  * which accompanies this distribution, and is available at
- * http://www.eclipse.org/legal/epl-v10.html
+ * https://www.eclipse.org/legal/epl-2.0/
  *
  * Contributors:
  * @author Heiko Behrens - Initial contribution and API
  * @author Sven Efftinge
  * @author Sebastian Zarnekow
- *******************************************************************************/
+ ******************************************************************************
+ * SPDX-License-Identifier: EPL-2.0
+*/
 import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.Method;
